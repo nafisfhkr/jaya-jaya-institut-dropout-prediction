@@ -81,7 +81,9 @@ Model siap pakai tersedia pada `model/dropout_pipeline.joblib`. Notebook tidak p
 
 ## Deployment Streamlit
 
-Link prototype Streamlit Community Cloud akan ditambahkan setelah deployment publik selesai dan telah diverifikasi.
+[Buka prototype Streamlit](https://seta000002026-09-12144838609261installingbuilddependenciesstar.streamlit.app/)
+
+Prototype dideploy melalui Streamlit Community Cloud dengan entry point `app.py` dan menggunakan artefak model `model/dropout_pipeline.joblib` yang tersedia di repository.
 
 ## Conclusion
 Berdasarkan hasil analisis data dan pemodelan machine learning pada `notebook.ipynb`:
