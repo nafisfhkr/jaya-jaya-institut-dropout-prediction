@@ -1,0 +1,13 @@
+.venv/
+venv/
+env/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+Context/
+model/contoh.joblib
